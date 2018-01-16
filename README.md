@@ -1,4 +1,4 @@
-# PHP + JavaScript over an Apache + NGINX server
+# Stock Quote Search Website
 Server Side Scripting with PHP
 
 Note : 
