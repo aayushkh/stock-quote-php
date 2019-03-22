@@ -1,4 +1,4 @@
-#### Stock Quote Website
+# Stock Quote Website
 Server Side Scripting with PHP
 
 Note : 
